@@ -1,0 +1,21 @@
+*{
+    font-family: 'Hina Mincho', serif;
+    font-size: 30px;
+}
+
+body{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    margin: 0px 300px;
+}
+th, td {
+    justify-content: flex-end;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+tr:hover {
+    background-color:cadetblue;
+}
